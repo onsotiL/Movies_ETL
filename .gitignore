@@ -1,4 +1,4 @@
-config
+config.py
 movies_metadata
 ratings
 wikipedia-movies.json
